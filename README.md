@@ -2,7 +2,7 @@
 ### 🚀Full Stack Web Developer  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Hi,+I'm+Muhammad+Kashan;Entry-Level+Full+Stack+Web+Developer;HTML+|+CSS+|+JS+|+Bootstrap+|+PHP+|+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Hi,+I'm+Muhammad+Kashan;Full+Stack+Web+Developer;HTML+|+CSS+|+JS+|+Bootstrap+|;+PHP+|+MySQL" alt="Typing SVG" />
 </p>
 
 <p align="center">
