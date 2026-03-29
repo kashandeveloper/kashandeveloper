@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:kashanmalikhabib142@gmail.com"><img src="https://img.shields.io/badge/Email-kashanmalikhabib142@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://my-portfolio-eta-bice-57.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Here%20Soon-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://my-portfolio-eta-bice-57.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Here%20-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 </p>
 
