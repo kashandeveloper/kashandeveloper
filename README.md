@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 <p align="justify">
-  I am a passionate <b>Entry-Level Full Stack Web Developer</b> currently pursuing <b>ADSE (3rd Semester)</b> at Aptech Computer Education and <b>BBIT</b> at Virtual University of Pakistan. With a strong foundation in both frontend and backend development, I specialize in building responsive, user-friendly, and efficient web applications. I also bring <b>1 year of professional experience</b> in Port & Logistics Operations, which has honed my organizational and problem-solving skills.
+  I am a passionate <b>Full Stack Web Developer</b> currently pursuing <b>ADSE (3rd Semester)</b> at Aptech Computer Education and <b>BBIT</b> at Virtual University of Pakistan. With a strong foundation in both frontend and backend development, I specialize in building responsive, user-friendly, and efficient web applications. I also bring <b>1 year of professional experience</b> in Port & Logistics Operations, which has honed my organizational and problem-solving skills.
 </p>
 
 <p align="center">
@@ -69,11 +69,12 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **Elites_Estates** | A fully functional Real Estate Agency Website!. | PHP, MySQL, JavaScript | [Demo](https://kashan2.gamer.gd/) / [GitHub](https://github.com/kashandeveloper/elite-estates-real-estate-website) |
+| **Invoice System** | A modern invoice management system designed to create, manage, and track invoices with an organized and user-friendly interface. | PHP, MY SQL, JavaScript | [Demo](https://kashan.42web.io/) / [GitHub](https://github.com/kashandeveloper/invoice-system) |
+| **Kashan Bites** | Responsive landing page for a fictional food brand "Kashan Bites. | HTML5, CSS3, JavaScript | [Demo](https://kashan-bites.vercel.app/) / [GitHub](https://github.com/kashandeveloper/Kashan-Bites) |
 | **MY PORTFOLIO** | This is my personal portfolio website where I showcase my projects, skills, and contact information as a web developer. 🚀. | HTML, CSS, JAVASCRPT | [Demo](https://my-portfolio-eta-bice-57.vercel.app/) / [GitHub](https://github.com/kashandeveloper/My_Portfolio) |
-| **Auth System** | Secure login/signup system with sessions. | PHP, MySQL, JavaScript | [Demo](#) / [GitHub](#) |
-| **Admin Dashboard** | Clean dashboard with data visualization. | HTML, CSS, JavaScript | [Demo](#) / [GitHub](#) |
-| **Blog with SEO** | SEO-optimized blogging platform. | PHP, WordPress, SEO | [Demo](#) / [GitHub](#) |
-| **Business Site** | Modern & responsive business website. | Bootstrap 5, JS | [Demo](#) / [GitHub](#) |
+| **Zaltime Landing Page** | A modern luxury watch landing page designed in Figma and developed using HTML, CSS, and basic JavaScript. | HTML5, CSS3, JavaScript | [Demo](https://zantime-landing-page.vercel.app/) / [GitHub](https://github.com/kashandeveloper/zantime-landing-page/tree/main) |
+
 
 </div>
 
