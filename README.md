@@ -69,7 +69,7 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **CRUD Application** | Full-stack web app for data management. | PHP, MySQL, Bootstrap | [Demo](#) / [GitHub](#) |
+| **MY PORTFOLIO** | This is my personal portfolio website where I showcase my projects, skills, and contact information as a web developer. 🚀. | HTML, CSS, JAVASCRPT | [Demo](https://my-portfolio-eta-bice-57.vercel.app/) / [GitHub](https://github.com/kashandeveloper/My_Portfolio) |
 | **Auth System** | Secure login/signup system with sessions. | PHP, MySQL, JavaScript | [Demo](#) / [GitHub](#) |
 | **Admin Dashboard** | Clean dashboard with data visualization. | HTML, CSS, JavaScript | [Demo](#) / [GitHub](#) |
 | **Blog with SEO** | SEO-optimized blogging platform. | PHP, WordPress, SEO | [Demo](#) / [GitHub](#) |
