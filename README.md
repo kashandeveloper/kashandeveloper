@@ -87,8 +87,8 @@
 - Handled documentation and coordinated with multiple departments to optimize logistics chains.
 - Improved operational efficiency through meticulous tracking and reporting.
 
-#### 💻 **Freelance / Training Web Developer**
-**2025 – Present**
+#### 💻 **Aptech E-Projects / Training Web Developer**
+**2026 – Present**
 - Developing custom full-stack web applications using PHP, MySQL, and modern frontend tools.
 - Focusing on building responsive designs and integrating SEO best practices.
 - Continuously learning and implementing new web technologies.
@@ -103,24 +103,13 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashanmalikhabib142&show_icons=true&theme=tokyonight&hide_border=true&title_color=4A90E2&icon_color=4A90E2" alt="GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashanmalikhabib142&layout=compact&theme=tokyonight&hide_border=true&title_color=4A90E2" alt="Top Languages" height="170px" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashanmalikhabib142&theme=tokyonight&hide_border=true&stroke=4A90E2&ring=4A90E2&fire=4A90E2" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📬 Get In Touch
 <p align="center">
   <a href="mailto:kashanmalikhabib142@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-kashan-661339384/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/kashandeveloper"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/malik.kashan.5243817"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/its_kashan_47/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
